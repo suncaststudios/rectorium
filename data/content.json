@@ -1,0 +1,1057 @@
+{
+ "site": {
+  "name": "The Rectorium",
+  "description": "games · art · music · posts by r3ctrr313"
+ },
+ "games": [
+  {
+   "id": "damage-roll",
+   "title": "Damage Roll",
+   "cover": null,
+   "status": "IN DEVELOPMENT",
+   "visibility": "PUBLISHED",
+   "tags": [
+    "card-game",
+    "dark-fantasy",
+    "html",
+    "moddable",
+    "free",
+    "windows"
+   ],
+   "description": "A free dark fantasy card game inspired by Magic: The Gathering, where everything is decided by one great and all-powerful god: a 1d6. Simple dice and card mechanics, 20+ cards, 6+ decks, and your own decks if you want them.",
+   "engine": "HTML / JavaScript",
+   "platform": "Windows",
+   "price": "Free",
+   "updated": "v0.5.4",
+   "details": [
+    "Full .json mod support, plus a visual mod builder",
+    "Custom decks with a loading / sharing system",
+    "60+ achievements",
+    "6 music tracks to choose from",
+    "Auto-updating, lightweight install"
+   ],
+   "links": [
+    {
+     "label": "Play / download on itch.io",
+     "url": "https://solwave-studios.itch.io/damage-roll"
+    }
+   ],
+   "coverRemote": "https://img.itch.zone/aW1nLzI3NDM5MDQ4LnBuZw==/original/wax8qy.png"
+  }
+ ],
+ "art": [
+  {
+   "id": "neoskulll",
+   "title": "NEOSKULLL",
+   "description": "A skull in an astronaut helmet, wired up with floating diagram callouts.",
+   "category": "Digital collage",
+   "tags": [
+    "collage",
+    "skull",
+    "space"
+   ],
+   "albums": [
+    "skulls"
+   ],
+   "status": "PUBLISHED",
+   "file": "neoskulll"
+  },
+  {
+   "id": "doskull-scrapped",
+   "title": "DOSKULL",
+   "description": "Glitched pixel skull made for a project that never shipped.",
+   "category": "Game concept",
+   "tags": [
+    "skull",
+    "glitch",
+    "scrapped"
+   ],
+   "albums": [
+    "skulls",
+    "archived-work"
+   ],
+   "status": "PUBLISHED",
+   "game": "doskull",
+   "file": "doskull-scrapped"
+  },
+  {
+   "id": "error-detected",
+   "title": "error[detected]",
+   "description": "A skull wrapped in scrolling terminal text.",
+   "category": "Digital collage",
+   "tags": [
+    "skull",
+    "glitch",
+    "terminal"
+   ],
+   "albums": [
+    "skulls"
+   ],
+   "status": "PUBLISHED",
+   "file": "error-detected"
+  },
+  {
+   "id": "scrapped-project",
+   "title": "Scrapped Project",
+   "description": "Concept art for a scrapped project: an eye-sun over a city skyline.",
+   "category": "Game concept",
+   "tags": [
+    "scrapped",
+    "eye",
+    "concept-art"
+   ],
+   "albums": [
+    "archived-work"
+   ],
+   "status": "PUBLISHED",
+   "game": "scrapped-project",
+   "file": "scrapped-project"
+  },
+  {
+   "id": "eye-mass",
+   "title": "Eye Mass",
+   "description": "A tangle of glitched eyes.",
+   "category": "Digital collage",
+   "tags": [
+    "eyes",
+    "glitch"
+   ],
+   "albums": [
+    "eyes"
+   ],
+   "status": "PUBLISHED",
+   "file": "eye-mass"
+  },
+  {
+   "id": "eye-mass-2-o",
+   "title": "Eye Mass 2.0",
+   "description": "The follow-up to Eye Mass, wound tighter.",
+   "category": "Digital collage",
+   "tags": [
+    "eyes",
+    "glitch"
+   ],
+   "albums": [
+    "eyes"
+   ],
+   "status": "PUBLISHED",
+   "file": "eye-mass-2-o"
+  },
+  {
+   "id": "godly-eye",
+   "title": "Godly Eye",
+   "description": "A winged figure wrapped in drifting ribbons of hair.",
+   "category": "Digital collage",
+   "tags": [
+    "angel",
+    "eyes",
+    "collage"
+   ],
+   "albums": [
+    "angels",
+    "eyes"
+   ],
+   "status": "PUBLISHED",
+   "file": "godly-eye"
+  },
+  {
+   "id": "eye-called-you-pls-respond",
+   "title": "Eye Called You, Pls Respond",
+   "description": "Chrome eyeballs on a checkerboard floor.",
+   "category": "Digital collage",
+   "tags": [
+    "eyes",
+    "chrome",
+    "vaporwave"
+   ],
+   "albums": [
+    "eyes"
+   ],
+   "status": "PUBLISHED",
+   "file": "eye-called-you-pls-respond"
+  },
+  {
+   "id": "always-watching",
+   "title": "Always Watching",
+   "description": "A glitched strip of electric blue static.",
+   "category": "Experimental",
+   "tags": [
+    "glitch",
+    "abstract"
+   ],
+   "albums": [
+    "eyes"
+   ],
+   "status": "PUBLISHED",
+   "file": "always-watching"
+  },
+  {
+   "id": "falling-angel-winged-version",
+   "title": "Falling Angel (Winged)",
+   "description": "A white-on-black angel in free fall, wings intact.",
+   "category": "Digital collage",
+   "tags": [
+    "angel",
+    "glitch"
+   ],
+   "albums": [
+    "angels"
+   ],
+   "status": "PUBLISHED",
+   "file": "falling-angel-winged-version"
+  },
+  {
+   "id": "falling-angel-dewinged-version",
+   "title": "Falling Angel (Dewinged)",
+   "description": "The same fall, minus the wings.",
+   "category": "Digital collage",
+   "tags": [
+    "angel",
+    "glitch"
+   ],
+   "albums": [
+    "angels"
+   ],
+   "status": "PUBLISHED",
+   "file": "falling-angel-dewinged-version"
+  },
+  {
+   "id": "angel",
+   "title": "Angel",
+   "description": "Cover art for the song Angel (天使).",
+   "category": "Cover art",
+   "tags": [
+    "angel",
+    "cover-art"
+   ],
+   "albums": [
+    "cover-art",
+    "angels"
+   ],
+   "status": "PUBLISHED",
+   "radio": "lovely-angel",
+   "song": "angel",
+   "file": "angel"
+  },
+  {
+   "id": "lovely-angel",
+   "title": "Lovely Angel",
+   "description": "Cover art for the Lovely Angel Radio (素敵 天使).",
+   "category": "Cover art",
+   "tags": [
+    "angel",
+    "cover-art"
+   ],
+   "albums": [
+    "cover-art",
+    "angels"
+   ],
+   "status": "PUBLISHED",
+   "radio": "lovely-angel",
+   "file": "lovely-angel"
+  },
+  {
+   "id": "lovely-song-cover",
+   "title": "Lovely",
+   "description": "Cover art for the song Lovely.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art"
+   ],
+   "albums": [
+    "cover-art",
+    "angels"
+   ],
+   "status": "PUBLISHED",
+   "radio": "lovely-angel",
+   "song": "lovely",
+   "file": "lovely-song-cover"
+  },
+  {
+   "id": "osw",
+   "title": "One Shot Wonders",
+   "description": "Cover art for the One Shot Wonders Radio.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "logo"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "file": "osw"
+  },
+  {
+   "id": "aesthetics",
+   "title": "Aesthetics",
+   "description": "Cover art for the song Aesthetics: a media player with a balloon dog.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "vaporwave",
+    "retro-os"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "song": "aesthetics",
+   "file": "aesthetics"
+  },
+  {
+   "id": "soundwaves",
+   "title": "Soundwaves",
+   "description": "Cover art for Do You Believe In Me.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "logo",
+    "vivi4nite"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "song": "do-you-believe-in-me",
+   "file": "soundwaves"
+  },
+  {
+   "id": "fire-ice-mixture",
+   "title": "Fire / Ice Mixture",
+   "description": "Cover art for Burned the Water.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "abstract"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "song": "burned-the-water",
+   "file": "fire-ice-mixture"
+  },
+  {
+   "id": "meatgrinder-cover",
+   "title": "Meatgrinder",
+   "description": "Cover art for the song Meatgrinder.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "abstract"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "song": "meatgrinder",
+   "file": "meatgrinder-cover"
+  },
+  {
+   "id": "red-blue-cat",
+   "title": "Red + Blue Cat",
+   "description": "The uncropped version of the Meatgrinder art.",
+   "category": "Digital collage",
+   "tags": [
+    "cat",
+    "abstract"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "song": "meatgrinder",
+   "file": "red-blue-cat"
+  },
+  {
+   "id": "entity",
+   "title": "Entity",
+   "description": "Cover art for the song Entity.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "typography"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "one-shot-wonders",
+   "song": "entity",
+   "file": "entity"
+  },
+  {
+   "id": "natures-infinity",
+   "title": "Nature's Infinity",
+   "description": "Cover art for the Nature's Infinity Radio.",
+   "category": "Cover art",
+   "tags": [
+    "cover-art",
+    "space"
+   ],
+   "albums": [
+    "cover-art"
+   ],
+   "status": "PUBLISHED",
+   "radio": "natures-infinity",
+   "file": "natures-infinity"
+  },
+  {
+   "id": "vapor-basis",
+   "title": "Vapor Basis",
+   "description": "A marble bust drowned in warped grid and neon.",
+   "category": "Digital collage",
+   "tags": [
+    "bust",
+    "vaporwave"
+   ],
+   "albums": [
+    "busts"
+   ],
+   "status": "PUBLISHED",
+   "file": "vapor-basis"
+  },
+  {
+   "id": "head-down",
+   "title": "Head Down",
+   "description": "A glowing cyan bust, glitched at the neck.",
+   "category": "Digital collage",
+   "tags": [
+    "bust",
+    "glitch"
+   ],
+   "albums": [
+    "busts"
+   ],
+   "status": "PUBLISHED",
+   "file": "head-down"
+  },
+  {
+   "id": "the-r3-concept",
+   "title": "The R3 Concept",
+   "description": "A bust scattered into green and blue static.",
+   "category": "Digital collage",
+   "tags": [
+    "bust",
+    "glitch"
+   ],
+   "albums": [
+    "busts"
+   ],
+   "status": "PUBLISHED",
+   "file": "the-r3-concept"
+  },
+  {
+   "id": "plane-of-existence",
+   "title": "Plane of Existence",
+   "description": "A tilted white plane over a retro grid landscape.",
+   "category": "Experimental",
+   "tags": [
+    "vaporwave",
+    "abstract"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "file": "plane-of-existence"
+  },
+  {
+   "id": "codedworldofwonders",
+   "title": "Coded World of Wonders",
+   "description": "A sphere built out of scrolling binary.",
+   "category": "Experimental",
+   "tags": [
+    "code",
+    "abstract"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "file": "codedworldofwonders"
+  },
+  {
+   "id": "fake-file-systems",
+   "title": "Fake File Systems",
+   "description": "Floating cyan window icons among stars.",
+   "category": "Digital collage",
+   "tags": [
+    "retro-os",
+    "space"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "file": "fake-file-systems"
+  },
+  {
+   "id": "lets-go-to-the-moon-poster",
+   "title": "Let's Go To The Moon",
+   "description": "A poster: astronaut and a crescent moon on a field of stars.",
+   "category": "Poster",
+   "tags": [
+    "poster",
+    "space"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "file": "lets-go-to-the-moon-poster"
+  },
+  {
+   "id": "just-an-inch-away",
+   "title": "Just an Inch Away",
+   "description": "Two hands reaching, never quite touching.",
+   "category": "Digital collage",
+   "tags": [
+    "hands",
+    "glitch"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "file": "just-an-inch-away"
+  },
+  {
+   "id": "vivanite",
+   "title": "vivanite",
+   "description": "A diamond shape surrounded by static and crosses.",
+   "category": "Graphics",
+   "tags": [
+    "logo",
+    "vivi4nite"
+   ],
+   "albums": [],
+   "status": "PUBLISHED",
+   "file": "vivanite"
+  },
+  {
+   "id": "vivi4nite-logo",
+   "title": "vivi4nite Logo",
+   "description": "Logo mark for the vivi4nite music alias.",
+   "category": "Logo",
+   "tags": [
+    "logo",
+    "vivi4nite"
+   ],
+   "albums": [
+    "branding"
+   ],
+   "status": "PUBLISHED",
+   "file": "vivi4nite-logo"
+  },
+  {
+   "id": "solwave-studios-logo",
+   "title": "Solwave Studios Logo",
+   "description": "The retired logo for Solwave Studios.",
+   "category": "Logo",
+   "tags": [
+    "logo",
+    "solwave"
+   ],
+   "albums": [
+    "branding",
+    "archived-work"
+   ],
+   "status": "PUBLISHED",
+   "game": "solwave",
+   "file": "solwave-studios-logo"
+  }
+ ],
+ "albums": [
+  {
+   "id": "cover-art",
+   "title": "Cover Art",
+   "description": "Covers for songs and Radios.",
+   "cover": "osw"
+  },
+  {
+   "id": "angels",
+   "title": "Angels",
+   "description": "Falling, lovely, and otherwise.",
+   "cover": "falling-angel-winged-version"
+  },
+  {
+   "id": "eyes",
+   "title": "Eyes",
+   "description": "Everybody is looking at something.",
+   "cover": "eye-mass"
+  },
+  {
+   "id": "skulls",
+   "title": "Skulls",
+   "description": "",
+   "cover": "neoskulll"
+  },
+  {
+   "id": "busts",
+   "title": "Busts",
+   "description": "Marble, but make it glitch.",
+   "cover": "vapor-basis"
+  },
+  {
+   "id": "branding",
+   "title": "Logos & Branding",
+   "description": "",
+   "cover": "vivi4nite-logo"
+  },
+  {
+   "id": "archived-work",
+   "title": "Scrapped & Archived",
+   "description": "Concept art from projects that did not ship.",
+   "cover": "scrapped-project"
+  }
+ ],
+ "radios": [
+  {
+   "id": "lovely-angel",
+   "title": "Lovely Angel",
+   "cover": "lovely-angel",
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "description": "",
+   "external": "https://soundcloud.com/vivi4nite",
+   "songs": [
+    "lovely",
+    "angel"
+   ]
+  },
+  {
+   "id": "one-shot-wonders",
+   "title": "One Shot Wonders",
+   "cover": "osw",
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "description": "",
+   "external": "https://soundcloud.com/vivi4nite",
+   "songs": [
+    "aesthetics",
+    "do-you-believe-in-me",
+    "burned-the-water",
+    "meatgrinder",
+    "entity"
+   ]
+  },
+  {
+   "id": "natures-infinity",
+   "title": "Nature's Infinity",
+   "cover": "natures-infinity",
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "description": "",
+   "external": "https://soundcloud.com/vivi4nite",
+   "songs": [
+    "glitch-in-the-memory-palace",
+    "exclusivity_",
+    "heavens-goal",
+    "vaporial-wave",
+    "aquafinity"
+   ]
+  }
+ ],
+ "songs": [
+  {
+   "id": "lovely",
+   "title": "Lovely",
+   "cover": "lovely-song-cover",
+   "file": "assets/audio/lovely.mp3",
+   "duration": 269,
+   "radios": [
+    "lovely-angel"
+   ],
+   "track": 1,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "angel",
+   "title": "Angel",
+   "cover": "angel",
+   "file": "assets/audio/angel.mp3",
+   "duration": 265,
+   "radios": [
+    "lovely-angel"
+   ],
+   "track": 2,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "aesthetics",
+   "title": "Aesthetics",
+   "cover": "aesthetics",
+   "file": "assets/audio/aesthetics.mp3",
+   "duration": 250,
+   "radios": [
+    "one-shot-wonders"
+   ],
+   "track": 1,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "do-you-believe-in-me",
+   "title": "Do You Believe In Me",
+   "cover": "soundwaves",
+   "file": "assets/audio/do-you-believe-in-me.mp3",
+   "duration": 198,
+   "radios": [
+    "one-shot-wonders"
+   ],
+   "track": 2,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "burned-the-water",
+   "title": "Burned the Water",
+   "cover": "fire-ice-mixture",
+   "file": "assets/audio/burned-the-water.mp3",
+   "duration": 271,
+   "radios": [
+    "one-shot-wonders"
+   ],
+   "track": 3,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "meatgrinder",
+   "title": "Meatgrinder",
+   "cover": "meatgrinder-cover",
+   "file": "assets/audio/meatgrinder.mp3",
+   "duration": 240,
+   "radios": [
+    "one-shot-wonders"
+   ],
+   "track": 4,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "entity",
+   "title": "Entity",
+   "cover": "entity",
+   "file": "assets/audio/entity.mp3",
+   "duration": 227,
+   "radios": [
+    "one-shot-wonders"
+   ],
+   "track": 5,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "glitch-in-the-memory-palace",
+   "title": "Glitch in the Memory Palace",
+   "cover": "natures-infinity",
+   "file": "assets/audio/glitch-in-the-memory-palace.mp3",
+   "duration": 269,
+   "radios": [
+    "natures-infinity"
+   ],
+   "track": 1,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "exclusivity_",
+   "title": "Exclusivity_",
+   "cover": "natures-infinity",
+   "file": "assets/audio/exclusivity_.mp3",
+   "duration": 262,
+   "radios": [
+    "natures-infinity"
+   ],
+   "track": 2,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "heavens-goal",
+   "title": "Heaven's Goal",
+   "cover": "natures-infinity",
+   "file": "assets/audio/heavens-goal.mp3",
+   "duration": 271,
+   "radios": [
+    "natures-infinity"
+   ],
+   "track": 3,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "vaporial-wave",
+   "title": "Vaporial Wave",
+   "cover": "natures-infinity",
+   "file": "assets/audio/vaporial-wave.mp3",
+   "duration": 275,
+   "radios": [
+    "natures-infinity"
+   ],
+   "track": 4,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  },
+  {
+   "id": "aquafinity",
+   "title": "Aquafinity",
+   "cover": "natures-infinity",
+   "file": "assets/audio/aquafinity.mp3",
+   "duration": 249,
+   "radios": [
+    "natures-infinity"
+   ],
+   "track": 5,
+   "tags": [
+    "music",
+    "vivi4nite"
+   ],
+   "artist": "vivi4nite"
+  }
+ ],
+ "posts": [
+  {
+   "id": "damage-roll-v054",
+   "type": "UPDATE",
+   "title": "Damage Roll v0.5.4: splash screen + achievement reset",
+   "date": "",
+   "games": [
+    "damage-roll"
+   ],
+   "tags": [
+    "damage-roll",
+    "update",
+    "game-dev"
+   ],
+   "version": "v0.5.4",
+   "status": "PUBLISHED",
+   "summary": "Players can now reset their achievements, and the splash screen at game start can be toggled.",
+   "body": [
+    "Damage Roll v0.5.4 lets players reset their achievements if they feel like it, and adds a toggleable splash screen at the start of the game.",
+    "Bugs were fixed as well."
+   ],
+   "changes": [
+    "Added: achievement reset",
+    "Added: toggleable splash screen",
+    "Fixed: assorted bugs"
+   ]
+  },
+  {
+   "id": "welcome-to-the-rectorium",
+   "type": "UPDATE",
+   "title": "The Rectorium is open",
+   "date": "2026-10-08",
+   "games": [],
+   "tags": [
+    "site",
+    "update"
+   ],
+   "version": "",
+   "status": "PUBLISHED",
+   "summary": "A new home for games, art, music and posts. Solwave Studios is retired; its history lives in the Archive.",
+   "body": [
+    "This is The Rectorium: the one place for everything I make. Games, art, music and posts all live here now.",
+    "Solwave Studios is retired. Anything worth keeping from it is in the Archive folder on the desktop.",
+    "Prefer a normal website? Open Settings and switch to the simplified portfolio view."
+   ],
+   "changes": []
+  }
+ ],
+ "archive": [
+  {
+   "id": "solwave",
+   "title": "Solwave Studios",
+   "kind": "STUDIO",
+   "cover": "solwave-studios-logo",
+   "tags": [
+    "solwave",
+    "archive",
+    "studio"
+   ],
+   "status": "RETIRED",
+   "description": "A small indie studio focused on liminal horror, shooter and dark fantasy games, with an emphasis on looks, gameplay and experience. Retired and folded into The Rectorium. Damage Roll lives on in GameStore.",
+   "links": [
+    {
+     "label": "itch.io",
+     "url": "https://solwave-studios.itch.io"
+    },
+    {
+     "label": "Old studio site",
+     "url": "https://sites.google.com/view/suncast-studios-official/home"
+    }
+   ],
+   "game": "solwave",
+   "related_games": [
+    "damage-roll"
+   ]
+  },
+  {
+   "id": "hailios-project",
+   "title": "HAILIOS PROJECT",
+   "kind": "PROJECT",
+   "cover": null,
+   "tags": [
+    "solwave",
+    "horror",
+    "roguelike",
+    "archive"
+   ],
+   "status": "ARCHIVED",
+   "description": "A top-down horror roguelike about solving puzzles to escape relentless entities in a minimalist world. It was in early development under Solwave Studios.",
+   "links": []
+  },
+  {
+   "id": "doskull",
+   "title": "DOSKULL",
+   "kind": "SCRAPPED PROJECT",
+   "cover": "doskull-scrapped",
+   "tags": [
+    "scrapped",
+    "skull",
+    "archive"
+   ],
+   "status": "SCRAPPED",
+   "description": "A project that never made it out of concept art.",
+   "links": [],
+   "game": "doskull"
+  },
+  {
+   "id": "scrapped-project",
+   "title": "Untitled Scrapped Project",
+   "kind": "SCRAPPED PROJECT",
+   "cover": "scrapped-project",
+   "tags": [
+    "scrapped",
+    "archive",
+    "concept-art"
+   ],
+   "status": "SCRAPPED",
+   "description": "Concept art from another project that did not ship.",
+   "links": [],
+   "game": "scrapped-project"
+  }
+ ],
+ "socials": [
+  {
+   "id": "soundcloud",
+   "label": "SoundCloud",
+   "handle": "vivi4nite",
+   "url": "https://soundcloud.com/vivi4nite",
+   "description": "Music, under the vivi4nite alias.",
+   "icon": "sound"
+  },
+  {
+   "id": "itch",
+   "label": "itch.io",
+   "handle": "solwave-studios",
+   "url": "https://solwave-studios.itch.io",
+   "description": "Where Damage Roll lives.",
+   "icon": "game"
+  }
+ ],
+ "about": {
+  "handle": "r3ctrr313",
+  "alt": "vivi4nite",
+  "tagline": "I make music, digital collage and videogames.",
+  "bio": [
+   "Hi, I'm r3ctrr313. I make games, digital art and music, and The Rectorium is where all of it lives.",
+   "Most of my art is digital collage: I stack stickers in Picsart and then break and polish them in Glitch Lab. It is not drawing, and I will not pretend it is.",
+   "Music comes out under my other name, vivi4nite. Kind, a little arrogant, funny, and logical. Mostly."
+  ],
+  "likes": [
+   "Making music",
+   "Digital collage",
+   "Making videogames",
+   "Glitch + vaporwave aesthetics",
+   "Card games"
+  ],
+  "dislikes": []
+ },
+ "achievements": [
+  {
+   "id": "jam",
+   "name": "LET'S JAM!",
+   "desc": "Listen to music."
+  },
+  {
+   "id": "about",
+   "name": "SO MUCH TO KNOW",
+   "desc": "Open About / Info."
+  },
+  {
+   "id": "firstlook",
+   "name": "FIRST LOOK",
+   "desc": "Open a project."
+  },
+  {
+   "id": "critic",
+   "name": "CRITIC MODE",
+   "desc": "Read a review."
+  },
+  {
+   "id": "behind",
+   "name": "BEHIND THE SCENES",
+   "desc": "Read a devlog."
+  },
+  {
+   "id": "shopping",
+   "name": "WINDOW SHOPPING",
+   "desc": "Open five apps."
+  },
+  {
+   "id": "rounded",
+   "name": "WELL-ROUNDED",
+   "desc": "Visit Games, Art, Music, and Blogs."
+  },
+  {
+   "id": "archivist",
+   "name": "ARCHIVIST",
+   "desc": "Browse the Archive."
+  },
+  {
+   "id": "adblock",
+   "name": "AD BLOCKER",
+   "desc": "Visit advertisements.com.",
+   "secret": true
+  }
+ ]
+}
